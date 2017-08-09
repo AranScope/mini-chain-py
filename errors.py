@@ -1,3 +1,7 @@
+"""
+errors used to check result of blockchain transactions
+"""
+
 class HashMismatchError(Exception):
     """ raised when a previous block hash is incorrect """
     pass

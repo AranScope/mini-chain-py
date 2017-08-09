@@ -1,4 +1,0 @@
-[
-    "{\n    \"data\": \"genesis\",\n    \"hash\": \"9335e9a2168515c95fcfe53e78313795b5628eb7331316547ff6c6a46ed57d5f\",\n    \"index\": 0,\n    \"previous_hash\": null,\n    \"timestamp\": 1502211227.343557\n}",
-    "{\n    \"data\": \"a new block\",\n    \"hash\": \"969d71a09eb1ef3c211163444a53d10de845077fc091275999cafe929c8ab5cc\",\n    \"index\": 1,\n    \"previous_hash\": \"9335e9a2168515c95fcfe53e78313795b5628eb7331316547ff6c6a46ed57d5f\",\n    \"timestamp\": 1502211227.3436\n}"
-]
